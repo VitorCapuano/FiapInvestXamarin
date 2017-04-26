@@ -1,0 +1,17 @@
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\FiapInvest.dll
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\FiapInvest.pdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Core.dll
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Core.pdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Core.xml
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\obj\Debug\FiapInvest.csprojResolveAssemblyReference.cache
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\obj\Debug\FiapInvest.dll
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\obj\Debug\FiapInvest.pdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\obj\Debug\FiapInvest.dll.mdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\FiapInvest.dll.mdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\obj\Debug\FiapInvest.dll.mdb
+C:\WORKSPACE-XAMARIN\xamarin-fiap\FiapInvest\FiapInvest\FiapInvest\bin\Debug\FiapInvest.dll.mdb
